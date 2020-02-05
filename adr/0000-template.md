@@ -1,5 +1,9 @@
 # Title
 
+Describes an architecturally significant decision: one that affects the structure, non-functional characteristics, dependencies, interfaces, or construction techniques.
+
+Date: DD/MM/YYYY
+
 ## Status
 
 What is the status, such as proposed, accepted, rejected?
@@ -14,7 +18,10 @@ What is the change that we're proposing and/or doing?
 
 ## Consequences
 
-What becomes easier or more difficult to do because of this change?
+What becomes more difficult to do because of this change?
+
+- Consequence one
+- Consequence two
 
 ## Pros and Cons of the Options (Optional)
 
