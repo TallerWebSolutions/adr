@@ -1,4 +1,4 @@
-# Tracks architectural organization decisions
+# Architecture decision record template
 
 ## References
 
